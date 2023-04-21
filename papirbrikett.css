@@ -27,6 +27,7 @@ h1, h2{
 #brikettek{
   width: 90%;
   max-width: 500px;
+  
 }
 
 p{
@@ -58,6 +59,7 @@ p:first-letter{
 
 .kiemelt{
   font-style: italic;
+  font-weight: bold;
 }
 
 li{
